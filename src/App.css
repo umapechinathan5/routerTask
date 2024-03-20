@@ -1,0 +1,8 @@
+.nav-link.active{
+      text-decoration-line: underline;
+      text-decoration-color: greenyellow;
+      text-decoration-thickness: 3px;
+      background-color: rgba(177, 233, 177, 0.648);
+      text-underline-offset: 30px;
+      
+}
